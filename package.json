@@ -1,0 +1,10 @@
+{
+  "name": "yandex.school",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "qwetexac",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
